@@ -38,7 +38,6 @@ const Resume = () => (
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
               </h4>))}
           </div>
-          <a href="https://docdro.id/1HcwDkK" download="Resume.pdf">Download PDF</a>
         </div>
       </header>
       {Object.entries(sections).map(([name, Section]) => (
