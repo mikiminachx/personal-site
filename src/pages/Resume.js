@@ -26,7 +26,7 @@ const sections = {
 const Resume = () => (
   <Main
     title="Resume"
-    description="Michael D'Angelo's Resume. Smile Identity, Arthena, Matroid, YC, Skeptical Investments, Stanford ICME, Planet, and Facebook."
+    description="Yin Ting Lau's Resume. UoB, HKU, PolyU."
   >
     <article className="post" id="resume">
       <header>
@@ -38,6 +38,7 @@ const Resume = () => (
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
               </h4>))}
           </div>
+          <a href="https://docdro.id/1HcwDkK" download="Resume.pdf">Download PDF</a>
         </div>
       </header>
       {Object.entries(sections).map(([name, Section]) => (

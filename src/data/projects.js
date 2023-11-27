@@ -1,47 +1,55 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Reinforcement Learning in Iowa Gambling Task',
+    subtitle: 'Reinforcement Learning Project',
+    link: 'https://github.com/mikiminachx/reinforcement-learning-project',
+    image: '/images/projects/iowagambling.png',
+    date: '2023-11-01',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Predicting the total money gained or lost using Reinforcement Learning (RL). '
+      + 'The data is trained with Deep Q-Learning (DQN) Reinforcement Learning '
+      + 'How well can the result be predicted with this method?',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Quantification of Brain Age by Functional MRI Data: Complexity and Functional Connectivity',
+    subtitle: 'MRI study',
+    image: '/images/projects/brainscan.jpg',
+    date: '2023-01-08',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Assessing brain age by using MRI scans. '
+      + "Can we use brain age to diagose Alzheimer's disease? "
+      + "Can one's cognitive abilities be informed simply based on MRI scans?",
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'The Long-term Impact of Clozapine on Mortality, Hospitalization and Comorbidity in Patients with Schizophrenia',
+    subtitle: 'Clozapine Mortality Study',
+    image: '/images/projects/clozapine.jpg',
+    date: '2022-09-01',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Examining the mortality rate and causes of deaths in Clozapine users in Schizophrenia. '
+      + 'To compare the hospitalization after the initiation of Clozapine in patients. '
+      + 'To investigate the comorbidities in Clozapine users in patients.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'What Can We Search for Preconsciously?',
+    subtitle: 'Dissertation',
+    image: '/images/projects/rsvp.png',
+    date: '2022-01-07',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'The main purpose of the project is to find out what classes of information the human brain can search for, '
+      + 'what it cannot. Rapid Serial Visual Presentation (RSVP) was used to '
+      + 'determine how long an arbitrary item in an RSVP stream remains in the brain when not a target.',
+  },
+  {
+    title: 'Bitcoin Data Exploration, Linear Regression and Price Prediction',
+    subtitle: 'Data Analysis Individual Project',
+    link: 'https://github.com/mikiminachx/Bitcoin-Data-Exploration-and-Linear-Regression',
+    image: '/images/projects/bitcoin.png',
+    date: '2021-03-18',
+    desc:
+      "The goal of this study is to use regression-based analytic algorithms to forecast Bitcoin's price direction. "
+      + 'The historical price data was investigated in order to make prediction.',
   },
 ];
 
