@@ -1,6 +1,16 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Telegram Bot with ChatGPT and Google Gemini',
+    subtitle: 'Telegram Bot',
+    link: 'https://github.com/mikiminachx/telegram-bot',
+    image: '/images/projects/telegram-bot.jpg',
+    date: '2024-01-02',
+    desc:
+      'A Telegram bot integrated with OpenAI ChatGPT and Google Gemini. '
+      + 'The functions are still modifying ',
+  },
+  {
     title: 'Reinforcement Learning in Iowa Gambling Task',
     subtitle: 'Reinforcement Learning Project',
     link: 'https://github.com/mikiminachx/reinforcement-learning-project',

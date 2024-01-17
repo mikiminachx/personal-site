@@ -13,10 +13,27 @@
  */
 const work = [
   {
+    name: 'iNFOWARE System Limited',
+    position: 'Application Support Engineer',
+    url: 'https://www.infoware.com.hk/index.html',
+    startDate: '2024-01-15',
+    summary: `Providing daily operation and technical support on Retail/CRM applications & databases. Moreover, it is essential to install, configure, and regular update software application and database. 
+    It is also required to interact with end-users directly for problem identification and resolution. Working closely with Development Team for project support is also in the job duties.`,
+
+    highlights: [
+      'Deploy & support Omni-Channel Retail/CRM Software.',
+      'Provide support to Hong Kong & Asia Clients.',
+      'Provide support to Development Team for different projects',
+      'Knowledge in using SQL for data management on Microsoft SQL Server is required.',
+      'Basic knowledge in software development, configuration, and updating is essential.',
+    ],
+  },
+  {
     name: 'Research Centre for Language, Cognition, and Neuroscience, The Hong Kong Polytechnic University',
     position: 'Research Assistant',
     url: 'https://www.polyu.edu.hk/cbs/rclcn/',
     startDate: '2023-01-08',
+    endDate: '2023-12-28',
     summary: `Assisting Professor William Shi-Yuan Wang and Dr. Manson Fong with the project 
     “Quantification of Brain Age by Functional MRI Data: Complexity and Functional Connectivity” and different bilingual studies projects. 
     The main duties of the job are designing experiments, data analysis and MRI data analysis. 
