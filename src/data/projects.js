@@ -8,7 +8,7 @@ const data = [
     date: '2024-01-23',
     desc:
       'A GUI application for managing passwords. '
-      + 'Written in Python '
+      + 'Written in Python. '
       + 'Tkinter, SQLite, and Cryptography were used for building the whole application.',
   },
   {
