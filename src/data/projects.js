@@ -55,7 +55,7 @@ const data = [
   {
     title: 'What Can We Search for Preconsciously?',
     subtitle: 'Dissertation',
-    image: '/images/projects/rsvp.png',
+    image: '/images/projects/RSVP.png',
     date: '2022-01-07',
     desc:
       'The main purpose of the project is to find out what classes of information the human brain can search for, '
