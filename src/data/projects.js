@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'PasswordManager',
+    subtitle: 'Password Manager',
+    link: 'https://github.com/mikiminachx/pw-manager',
+    image: '/images/projects/pw-manager.png',
+    date: '2024-01-23',
+    desc:
+      'A GUI application for managing passwords. '
+      + 'Written in Python '
+      + 'Tkinter, SQLite, and Cryptography were used for building the whole application.',
+  },
+  {
     title: 'Telegram Bot with ChatGPT and Google Gemini',
     subtitle: 'Telegram Bot',
     link: 'https://github.com/mikiminachx/telegram-bot',
