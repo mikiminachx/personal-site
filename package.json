@@ -35,7 +35,7 @@
     "react-scripts": "^5.0.1"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.23.3",
+    "@babel/eslint-parser": "^7.23.10",
     "@babel/preset-env": "^7.23.7",
     "@babel/preset-react": "^7.23.3",
     "@testing-library/jest-dom": "^5.17.0",
@@ -49,7 +49,7 @@
     "eslint-plugin-react": "^7.33.2",
     "react-snap": "^1.23.0",
     "rimraf": "^5.0.5",
-    "sass": "^1.69.7",
+    "sass": "^1.71.0",
     "source-map-explorer": "^2.5.3"
   },
   "browserslist": {
