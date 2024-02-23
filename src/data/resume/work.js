@@ -29,6 +29,13 @@ const work = [
     ],
   },
   {
+    name: 'School of Journalism and Communication, The Chinese University of Hong Kong',
+    position: 'Research Assistant (Part-Time)',
+    url: 'https://www.com.cuhk.edu.hk/',
+    startDate: '2024-02-01',
+    summary: `Assisting Dr. Terri Chan with a neuromarketing project. The main duties of the job are reviewing literature, looking for direction to set up a topic, and designing experiments.`
+  },
+  {
     name: 'Research Centre for Language, Cognition, and Neuroscience, The Hong Kong Polytechnic University',
     position: 'Research Assistant',
     url: 'https://www.polyu.edu.hk/cbs/rclcn/',
