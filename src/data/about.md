@@ -2,9 +2,11 @@
 
 - Just an ordinary person with loads of extraordinary dreams.
 
-# Research Interests
+# Introduction
 
-I am intrigued by the interplay between decision-making and learning in the realm of computational neuroscience. Unraveling this relationship offers a unique perspective on how our brain processes information, adapts to changes, and formulates choices. Such insights could revolutionize artificial intelligence models, enhancing their capability to mimic and improve human cognitive processes. Other than that, I would love to explore the computational modelling springs from a deep-seated aspiration to enhance the treatment methods for mental health disorders. By employing advanced computational tools, I envision unravelling hidden insights into complex neurological patterns, potentially transforming our approach to psychiatric medication and therapy, and ultimately, creating more adapted, efficient, and personalised solutions for patients.
+At Swift, I'm currently at the forefront of application and systems support, leveraging my academic background in Human Neuroscience to enhance operational efficiency. My role within the Core Messaging Team is instrumental in maintaining robust production operations. With a Bachelor's degree from the prestigious University of Birmingham, I bring a unique perspective to the technical realm.
+
+My proficiencies in data science are not just theoretical; they're tried and tested in research at The Chinese University of Hong Kong. Here, I apply data analysis rigorously, transforming complex datasets into actionable insights. My certifications in fMRI and neuroimaging principles, aligned with my role, reflect my dedication to bridging technology and neuroscience.
 
 # I like
 

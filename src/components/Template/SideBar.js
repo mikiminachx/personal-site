@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi. I am a <a href="https://www.birmingham.ac.uk/university/colleges/les/les-virtual-open-days/human-neuroscience.aspx">Human Neuroscience</a> graduate at the University of Birmingham, an Application Support Engineer at <a href="https://www.infoware.com.hk/index.html">iNFOWARE</a>, part-time research assistant at the <a href='https://www.com.cuhk.edu.hk/'>CUHK</a> and a nerd. Previously, I worked as a research assistant at the <a href="https://www.psychiatry.hku.hk/">Department of Psychiatry</a> at HKU and <a href="https://www.polyu.edu.hk/cbs/rclcn/">PolyU</a>.
+      <p>Hi. I am a <a href="https://www.birmingham.ac.uk/university/colleges/les/les-virtual-open-days/human-neuroscience.aspx">Human Neuroscience</a> graduate at the University of Birmingham, an Associate Systems & Application Management & Support Specialist at <a href="https://www.swift.com/">SWIFT</a>, part-time research assistant at the <a href='https://www.com.cuhk.edu.hk/'>CUHK</a> and a nerd.
       </p>
       <ul className="actions">
         <li>
@@ -27,7 +27,7 @@ const SideBar = () => (
         </li>
       </ul>
     </section>
-
+z
     <section id="footer">
       <ContactIcons />
       <p className="copyright">&copy; Meko Lau <Link to="/">mekolau.com</Link>.</p>

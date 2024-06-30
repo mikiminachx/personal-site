@@ -13,10 +13,18 @@
  */
 const work = [
   {
+    name: 'SWIFT',
+    position: 'Associate Systems & Application Management & Support Specialist',
+    url: 'https://www.swift.com/',
+    startDate: '2024-06-18',
+    summary: `CMC Core Messaging Team, Production Operations`,
+  },
+  {
     name: 'iNFOWARE System Limited',
     position: 'Application Support Engineer',
     url: 'https://www.infoware.com.hk/index.html',
     startDate: '2024-01-15',
+    endDate: '2024-06-11',
     summary: `Providing daily operation and technical support on Retail/CRM applications & databases. Moreover, it is essential to install, configure, and regular update software application and database. 
     It is also required to interact with end-users directly for problem identification and resolution. Working closely with Development Team for project support is also in the job duties.`,
 

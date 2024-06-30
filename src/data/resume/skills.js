@@ -100,39 +100,19 @@ const skills = [
     category: ['Data Science', 'ML Engineering'],
   },
   {
-    title: 'FreeSurfer',
-    competency: 2,
-    category: ['Neuroimgaing'],
+    title: 'Batch Script',
+    competency: 4,
+    category: ['Tools', 'Languages'],
   },
   {
-    title: 'FSL',
+    title: 'JAVA',
     competency: 2,
-    category: ['Neuroimgaing'],
+    category: ['Languages'],
   },
   {
-    title: 'ANTs',
-    competency: 2,
-    category: ['Neuroimgaing'],
-  },
-  {
-    title: 'SPM',
-    competency: 2,
-    category: ['Neuroimgaing'],
-  },
-  {
-    title: 'AFNI',
-    competency: 2,
-    category: ['Neuroimgaing'],
-  },
-  {
-    title: 'NiPype',
-    competency: 2,
-    category: ['Tools', 'Neuroimgaing'],
-  },
-  {
-    title: 'NIPY',
-    competency: 2,
-    category: ['Tools', 'Neuroimgaing'],
+    title: 'C',
+    competency: 3,
+    category: ['Languages'],
   },
   {
     title: 'Javascript',
@@ -141,7 +121,7 @@ const skills = [
   },
   {
     title: 'SQL',
-    competency: 4,
+    competency: 5,
     category: ['Data Science', 'Languages', 'Database Query', 'Database Management'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
